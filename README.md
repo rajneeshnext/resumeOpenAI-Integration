@@ -10,3 +10,6 @@ Career advisory services
 Resume generation
 Interactive conversational mode with ChatGPT-4
 File upload functionality for CVs
+
+Demo link
+https://www.boldertechnologies.net/chatGPT-workshop/resumeAI.php
